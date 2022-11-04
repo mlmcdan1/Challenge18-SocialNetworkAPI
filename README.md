@@ -9,7 +9,9 @@ use a JavaScript library of your choice or the natice JavaScript date object to 
 npm init npm install
 
 ## Screenshots
-![Screenshot 1](img.
+![Screenshot 1](IMG1.png)
+![Screenshot 2](IMG2.png)
+![Screenshot 3](IMG3.png)
 
 
 ## Link to Video
